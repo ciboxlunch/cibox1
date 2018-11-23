@@ -43,7 +43,7 @@
     </nav>
   </div>
 
-  <<!-- Intro --> 
+  <!-- Intro --> 
 
   <div id="index-banner" class="parallax-container">
     <div class="section-intro no-pad-bot">
